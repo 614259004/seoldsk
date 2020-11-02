@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color:  #e7e5d9;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.home-button{
+    margin-left: 37%;
+    margin-top: 17%;
+}
+
+h1{
+    font-size: 60px;
+    color: #4c6c6c;
+}
+
+a{
+    text-decoration: none;
+    font-size: 17px;
+    margin-left: 7%;
+    border: 2px solid #4c6c6c;
+    border-radius: 25px;
+    padding: 10px 20px;
+    color: #4c6c6c;
+}
+
+a:hover{
+    background-color: #4c6c6c;
+    color: #e7e5d9;
+    box-shadow:0 0 20px #4c6c6c;
+}
